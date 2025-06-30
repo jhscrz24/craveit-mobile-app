@@ -1,3 +1,5 @@
+# CraveIt - Recipe Finder Mobile App
+
 ![Demo App](/mobile/assets/images//for-readme.png)
 
 Highlights:
