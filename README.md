@@ -19,14 +19,14 @@ Highlights:
 
 ```bash
 PORT=5001
-DATABASE_URL=your_neon_db_url
+DATABASE_URL=neon_db_url...
 NODE_ENV=development
 ```
 
 ### Mobile App
 
 ```bash
-EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=.....
 ```
 
 ---
